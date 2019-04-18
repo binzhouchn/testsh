@@ -7,3 +7,5 @@ def ff(x):
     return x * 3
 
 print('--------------------')
+
+print(ff(10))
