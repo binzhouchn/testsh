@@ -1,11 +1,14 @@
 import numpy as np
 import pandas as pd
+import sklearn
 import os
 print(os.getcwd())
 
-def ff(x):
-    return x * 3
+class A:
+    @staticmethod
+    def ff(x):
+        return x * 3
 
 print('--------------------')
 
-print(ff(10))
+print(A.ff(10))
