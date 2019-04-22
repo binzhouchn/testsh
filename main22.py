@@ -9,6 +9,8 @@ class A:
     @staticmethod
     def ff(x):
         return x * 3
+    def ff2(self, x):
+        return x ** 3
 
 print('--------------------')
 
