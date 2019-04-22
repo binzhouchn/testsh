@@ -17,3 +17,4 @@ def function(func):  # 定义了一个闭包
 @function
 def test():  # 需要被装饰修改的函数。
     print('无参函数的测试')
+print(test())
