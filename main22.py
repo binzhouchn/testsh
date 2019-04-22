@@ -18,5 +18,5 @@ def function(func):  # 定义了一个闭包
 def test():  # 需要被装饰修改的函数。
     return '无参函数的测试'
 
-a = function(test())
+a = function(test)
 print(a)
