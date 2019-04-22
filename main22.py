@@ -7,15 +7,25 @@ import os
 print(os.getcwd())
 
 
+class Test(object):  # 定义一个类
+	def __init__(self，
 
-def function(func): #定义了一个闭包
-	def func_in(*args,**kwargs): #闭包内的函数，因为装饰器运行的实则是闭包内的函数，所以这里将需要有形参用来接收原函数的参数。
-		print('这里是需要装饰的内容，就是需要添加的内容')
-		num = func(*args,**kwargs) #调用实参函数，并传入一致的实参，并且用变量来接收原函数的返回值，
-		return num #将接受到的返回值再次返回到新的test()函数中。
-	return func_in
-@function
-def test(a,b): #定义一个函数
-	return a+b #返回实参的和
+		func):
+	self.__func = func
 
-print(test(3,4))
+
+def __call__(self):  # 定义call方法，当直接调用类的时候，运行这里。
+	print('这里是装饰的功能')
+	self.__func()
+
+
+t = Test()  # 实例化对象
+t()  # 调用类，将会调用call方法。
+
+
+@Test  # 类装饰器等于test = Test(test),将函数test当作参数传入类中的init方法，并将函数名赋值给私有属性__func，当函数test被调用的时候，其实是运行Test类中的call方法.
+def test():
+	print('被装饰的函数')
+
+
+print(test())
