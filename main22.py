@@ -7,5 +7,14 @@ import os
 print(os.getcwd())
 
 
-from collections import Iterable
-print(isinstance([1,2,3], Iterable))
+def function(func):  # 定义了一个闭包
+    def func_in():  # 闭包内的函数
+        print('这里是需要装饰的内容，就是需要添加的内容')
+        func()  # 调用实参函数。
+
+    return func_in
+
+
+def test():  # 需要被装饰修改的函数。
+    print('无参函数的测试')
+
