@@ -20,4 +20,4 @@ def test():
     print('无参函数的测试')
 
 
-test(5，6)
+print(test(5))
