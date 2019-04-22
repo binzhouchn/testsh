@@ -13,4 +13,5 @@ def num():
 		a,b = b,a+b
 		temp = yield b  #这里并不是变量的定义，当运行到yield时就会停止，所以当运行到等号右边的时候就会停止运行，当在次使用next的时候，将会把一个None赋值给temp，因为b的值已经在上轮循环中输出。这里可以使用num().send()方法将一个新的值赋值给temp。
 a = num()
-print(a)
+for i in a:
+	print(i)
