@@ -5,13 +5,10 @@ from tqdm import tqdm, tqdm_notebook
 import os
 print(os.getcwd())
 
-class A:
-    @staticmethod
-    def ff(x):
-        return x * 3
-    def ff2(self, x):
-        return x ** 3
+a = 9
+b = a
+
+print(id(a) == id(b))
+
 
 print('--------------------')
-
-print(A.ff(10))
