@@ -17,3 +17,5 @@ b = copy.deepcopy(a)
 print(id(a) == id(b))
 
 print('--------------------')
+
+print(list(range(0, 10, 2)))
