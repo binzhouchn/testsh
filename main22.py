@@ -6,16 +6,5 @@ from tqdm import tqdm, tqdm_notebook
 import os
 print(os.getcwd())
 
-a = 9
-b = a
-print(id(a) == id(b))
-
-print('second scenario')
-
-a = [1,2,3]
-b = copy.deepcopy(a)
-print(id(a) == id(b))
-
-print('--------------------')
-
-print(list(range(0, 10, 2)))
+a = (i for i in range(1, 10))
+print(a)
