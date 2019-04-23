@@ -16,11 +16,4 @@ def work():
 	l.release()  # 这里表示调用互斥锁解锁方法。
 
 
-def works():
-	global num
-	l.acquire()  # 这里表示调用互斥锁上锁方法。
-	for i in range(1000000):
-		num += 1
-	print('works的num是%d' % num)
-	l.release()  # 这里表示调用互斥锁解锁方法。
-
+print(work())
