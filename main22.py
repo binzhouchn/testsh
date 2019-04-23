@@ -14,6 +14,3 @@ def work():
 		num += 1
 	print('work的num是%d' % num)
 	l.release()  # 这里表示调用互斥锁解锁方法。
-
-
-print(work())
