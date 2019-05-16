@@ -8,3 +8,5 @@ os.system('which python')
 
 print('配置gitlab成功')
 print('--------------------------')
+
+print('indexing')
