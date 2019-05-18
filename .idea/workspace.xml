@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="247">
+              <caret line="13" column="4" selection-start-line="13" selection-end-line="13" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -115,7 +115,7 @@
       <workItem from="1557720731344" duration="2996000" />
       <workItem from="1557800182365" duration="1219000" />
       <workItem from="1557885652492" duration="842000" />
-      <workItem from="1557972086725" duration="1046000" />
+      <workItem from="1557972086725" duration="2045000" />
     </task>
     <task id="LOCAL-00001" summary="update on 5/13">
       <created>1557720822884</created>
@@ -180,11 +180,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557987270353</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update on 5/17">
+      <created>1558065171523</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558065171523</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update on 5/18">
+      <created>1558175055199</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558175055199</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6103000" />
+    <option name="totallyTimeSpent" value="7102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="47" width="1463" height="947" extended-state="0" />
@@ -222,7 +236,9 @@
     <MESSAGE value="update on 5/14" />
     <MESSAGE value="update on 5/15" />
     <MESSAGE value="update on 5/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="update on 5/16" />
+    <MESSAGE value="update on 5/17" />
+    <MESSAGE value="update on 5/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on 5/18" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/testsh$main22.coverage" NAME="main22 Coverage Results" MODIFIED="1557972091354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -230,8 +246,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main22.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="247">
+          <caret line="13" column="4" selection-start-line="13" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
