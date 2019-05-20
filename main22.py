@@ -11,4 +11,3 @@ print('--------------------------')
 
 print('探索表格1')
 print('preparing cfa')
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
