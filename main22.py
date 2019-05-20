@@ -9,5 +9,5 @@ os.system('which python')
 print('配置gitlab成功')
 print('--------------------------')
 
-print('探索表格1')
-print('new week, ')
+print('浏览器push')
+print('端内push')
