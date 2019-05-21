@@ -1,28 +1,28 @@
-# TEST
-[1. basic][1]
-- -
-- -
-- -
-- -
-- -
+# 5.20任务：
+
+1. 看下最近7天浏览器push下文章title(和url)的曝光数，从大到小排序
+2. 看下用户画像有哪些字段
+3. 站内push，其中表中docid等于xmpush中的itemid等于snapshot中的id
+
+粗粒度的可以按人群进行push；细粒度的话可以类似个性化push，这个还要想
+活跃度，
 
 
-# spark dataframe创建方法 
+# 5.21任务
+
+站内push 1. 内容池 2. 线上服务；这些别人会做，我们需要想办法召回
+
+1. app端模型，用户首刷
+2. 运营会出一些好的资讯
+3. 专门的用户人群
+4. 目前线上服务能用的模型就是FM
 
 
 
-[1]: #spark dataframe创建方法 
+今天的任务一：
 
-<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+i 看下哪些人群点击率比较高
 
+ii 看下feed流和非feed流的点击率情况
 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
-
-
-\text{loss}(x, class) = -\log\left(\frac{\exp(x[class])}{\sum_j \exp(x[j])}\right) = -x[class] + \log\left(\sum_j \exp(x[j])\right)
-
-# flask test
-
-《》
-<>
+# 5.22任务
