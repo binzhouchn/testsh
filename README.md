@@ -26,3 +26,10 @@ i 看下哪些人群点击率比较高
 ii 看下feed流和非feed流的点击率情况
 
 # 5.22任务
+
+
+export PYSPARK_DRIVER_PYTHON="ipython"
+
+export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
+
+alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
