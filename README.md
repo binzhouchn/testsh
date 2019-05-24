@@ -33,3 +33,6 @@ export PYSPARK_DRIVER_PYTHON="ipython"
 export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
 
 alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
+
+# 5.23任务
+#5.24任务
