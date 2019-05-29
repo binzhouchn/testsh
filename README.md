@@ -43,3 +43,6 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 5.28任务
 
 跑出浏览器画像表和o2o_noenter表，通过deviceid进行join根据点击率看下用户画像特征
+
+# 5.29任务
+解析浏览器画像表feeds_behavior字段
