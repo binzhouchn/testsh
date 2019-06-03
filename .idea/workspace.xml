@@ -45,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="697">
-                <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <first_editor relative-caret-position="659">
+                <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,8 +83,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1819" />
-    <option name="y" value="69" />
+    <option name="x" value="2005" />
+    <option name="y" value="73" />
     <option name="width" value="1463" />
     <option name="height" value="947" />
   </component>
@@ -93,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +104,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,7 +173,8 @@
       <workItem from="1557885652492" duration="842000" />
       <workItem from="1557972086725" duration="8890000" />
       <workItem from="1558659924178" duration="654000" />
-      <workItem from="1558950336915" duration="871000" />
+      <workItem from="1558950336915" duration="1291000" />
+      <workItem from="1559532593321" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="update on 5/13">
       <created>1557720822884</created>
@@ -329,17 +330,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559116959905</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update on 5.30">
+      <created>1559198234375</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1559198234375</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15472000" />
+    <option name="totallyTimeSpent" value="15902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1819" y="69" width="1463" height="947" extended-state="0" />
+    <frame x="2005" y="73" width="1463" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16300496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16583984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -380,7 +388,8 @@
     <MESSAGE value="update on 5/27" />
     <MESSAGE value="update on 5/28" />
     <MESSAGE value="update on 5.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="update on 5.29" />
+    <MESSAGE value="update on 5.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on 5.30" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/testsh$main22.coverage" NAME="main22 Coverage Results" MODIFIED="1557972091354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -403,8 +412,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="697">
-            <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <first_editor relative-caret-position="659">
+            <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
