@@ -14,3 +14,4 @@ print('浏览器push')
 print('端内push')
 
 print('extract knowledge from pdf6')
+print('定位脚注释，提取及扣除from原页面（坐标提取）')
