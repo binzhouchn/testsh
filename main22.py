@@ -19,3 +19,4 @@ print('xxxx')
 
 print('完成poc和详设报告')
 print('两天完成')
+print('已经完成呢个poc，接下来完成呢个详设')
