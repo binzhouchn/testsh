@@ -18,4 +18,4 @@ print('跑版式识别模型')
 print('xxxx')
 
 print('完成poc和详设报告')
-
+print('两天完成')
