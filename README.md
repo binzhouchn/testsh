@@ -48,3 +48,5 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 解析浏览器画像表feeds_behavior字段
 # 5.30任务
 # 6.3任务
+
+# 8.22任务
