@@ -51,6 +51,6 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 
 # 8.22任务
 
-# 8.23任务 deepdive安装完成
+# 8.23任务 deepdive安装完成，跑一下数据测试
 
 
