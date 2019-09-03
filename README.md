@@ -56,4 +56,6 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 8.27任务 deepdive测试，跑模型
 # 8.29任务 debug和deepdive继续测试
 
+# 9.3跑deepdive框架，跑关系抽取
+
 
