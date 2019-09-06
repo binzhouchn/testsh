@@ -59,5 +59,6 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 9.3跑deepdive框架，跑关系抽取
 # 9.4 跑通bxzr实体识别和关系抽取, 跑完NER
 # 9.5 跑完RE看下效果
+# 9.6 生成测试集和训练集，测试集是全量的candidate
 
 
