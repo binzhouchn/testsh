@@ -62,3 +62,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 9.6 生成测试集和训练集，测试集是全量的candidate
 
 
+
