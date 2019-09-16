@@ -63,6 +63,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 
 # 9.9 跑版式识别框架，table这块
 # 9.15完成ppt
+# 9.16 已经完成ppt，完成保险条款抽取
 
 
 
