@@ -67,6 +67,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 9.17 汇报
 # 9.18任务 neo4j
 # 9.19任务 完成neo4j构建 java
+# 9.19任务 探索neo4j构建 python
 
 
 
