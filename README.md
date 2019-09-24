@@ -72,3 +72,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 9.21任务 打比赛
 # 9.22跑中文分类模型
 # 9.23跑一下比赛分类，只用bert词向量
+# 提交分数
