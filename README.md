@@ -74,3 +74,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 9.23跑一下比赛分类，只用bert词向量
 # 提交分数
 # 用bert跑一下比赛
+# 衍生一些统计特征
