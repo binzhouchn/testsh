@@ -75,3 +75,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 提交分数
 # 用bert跑一下比赛
 # 衍生一些统计特征
+# 看下模型融合的效果
