@@ -77,3 +77,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 衍生一些统计特征
 # 看下模型融合的效果(tfidf+lr, textCNN)
 # 跑一下fastnlp ner模型用bert-base-cased模型
+# 
