@@ -79,4 +79,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 跑一下fastnlp ner模型用bert-base-cased模型
 # 跑关系抽取
 # 放假结束，准备工作
-# 准备跑完关系抽取
+# 准备跑完关系抽取2
