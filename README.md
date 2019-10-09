@@ -78,5 +78,5 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 看下模型融合的效果(tfidf+lr, textCNN)
 # 跑一下fastnlp ner模型用bert-base-cased模型
 # 跑关系抽取
-# 放假结束，准备工作
-# 准备跑完关系抽取4
+# 完成本月任务
+# 
