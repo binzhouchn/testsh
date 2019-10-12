@@ -34,3 +34,6 @@ class MYLTP:
 # 实例化
 ltp_dir = '/home/flygan/zhoubin1010/ltp_data_v3.4.0'
 myltp = MYLTP(ltp_dir)
+
+import camelot
+camelot.read_pdf()
