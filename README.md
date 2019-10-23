@@ -84,3 +84,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 非目录结构识别
 # 二分类算法
 # 用词向量看下效果
+# 优化保险责任表格
