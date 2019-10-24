@@ -85,4 +85,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 二分类算法
 # 用词向量看下效果
 # 优化保险责任表格
-# 今天完成
+# 明天提交sub19
