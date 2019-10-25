@@ -86,3 +86,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 用词向量看下效果
 # 优化保险责任表格
 # 明天提交sub19
+# 跑一下textcnn for content
