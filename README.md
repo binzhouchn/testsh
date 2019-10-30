@@ -88,4 +88,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 明天提交sub19
 # 跑一下textcnn for content
 # 更新下版式识别算法，针对无目录
-# 
+# 重新跑一下KG knowledge
