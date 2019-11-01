@@ -90,3 +90,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 更新下版式识别算法，针对无目录
 # 重新跑一下KG knowledge
 # 版式识别手工改动
+# 看下python从入门到精通。。
