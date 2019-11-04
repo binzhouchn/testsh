@@ -91,3 +91,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 重新跑一下KG knowledge
 # 版式识别手工改动
 # 看下python从入门到精通。。
+# 文件识别导入mongodb
