@@ -93,3 +93,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 看下python从入门到精通。。
 # 文件识别导入mongodb
 # 看下quora pair明天bert能跑完
+# 看下quora insincere明天bert跑完
