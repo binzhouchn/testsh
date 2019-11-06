@@ -95,3 +95,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 看下quora pair明天bert能跑完
 # 看下quora insincere明天bert跑完
 # 看下ZEN
+# 
