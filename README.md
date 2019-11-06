@@ -92,6 +92,6 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 版式识别手工改动
 # 看下python从入门到精通。。
 # 文件识别导入mongodb
-# 看下quora pair明天bert能跑完
-# 看下quora insincere明天bert跑完
+# 看下quora pair明天bert能跑完，提交
+# 看下quora insincere明天bert跑完，提交
 # 看下ZEN模型怎么跑
