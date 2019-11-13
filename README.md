@@ -97,3 +97,4 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 看下ZEN模型怎么跑，下载中
 # 提交结果到kaggle
 # 看下word2vec论文
+# 梳理下同义词词库
