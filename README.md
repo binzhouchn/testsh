@@ -98,7 +98,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 提交结果到kaggle
 # 看下word2vec论文
 # 梳理下同义词词库
-#
+# 看下zen并跑通
 
 
 
