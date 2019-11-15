@@ -100,6 +100,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 梳理下同义词词库
 # 看下zen并跑通
 # 抽取宏信息
+#
 
 
 
