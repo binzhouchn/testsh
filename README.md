@@ -103,7 +103,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 抽取宏信息-二维码
 # 宏信息提取完成
 # KBQA信息抽取
-# 
+# 三元组数据生成
 
 
 
