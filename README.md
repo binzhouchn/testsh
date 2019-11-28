@@ -105,6 +105,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # KBQA信息抽取
 # 三元组数据生成
 # 三元组存入neo4j中
+# 跑全量三元组文件
 
 
 
