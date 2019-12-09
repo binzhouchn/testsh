@@ -108,7 +108,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 跑全量三元组文件
 # 意图，槽位定义
 # 参加新员工培训
-
+#
 
 
 
