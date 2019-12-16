@@ -109,6 +109,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 意图，槽位定义
 # 参加新员工培训
 # 完成insure模板转换工作
+# 看完jalammar
 
 
 
