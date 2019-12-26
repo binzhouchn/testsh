@@ -116,6 +116,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 前端字符输入
 # 框架搭建
 # 完善semantic模块
+# 完成neo4j节点属性更新模块
 
 
 
