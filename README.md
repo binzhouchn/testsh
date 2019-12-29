@@ -118,6 +118,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 完善semantic模块
 # 完成neo4j节点属性更新模块
 # 完成feature extract
+# 完成entity extract
 
 
 
