@@ -126,14 +126,3 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 
 
 
-
-
-
-
-
-
-
-
-
-
-
