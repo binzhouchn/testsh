@@ -122,6 +122,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # semantic模块开发基本完成
 # back to work
 # log日志处理
+# 看下RoBERTa
 
 
 
