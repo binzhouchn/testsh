@@ -123,6 +123,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # back to work
 # log日志处理
 # 看下RoBERTa
+# 看书
 
 
 
