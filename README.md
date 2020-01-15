@@ -124,7 +124,8 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # log日志处理
 # 看下RoBERTa
 # 测试下第一版qa server
-# redis缓存
+# es缓存
+# 看下rebbitMQ
 
 
 
