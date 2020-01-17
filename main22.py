@@ -27,4 +27,4 @@ channel.start_consuming()
 from elasticsearch import helpers
 
 helpers.bulk()
-#
+# helpers功能
