@@ -126,6 +126,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # 测试下第一版qa server
 # es缓存
 # 看下rebbitMQ
+# 使用一下loguru
 
 
 
