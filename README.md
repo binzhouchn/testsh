@@ -127,7 +127,7 @@ alias snotebook='$SPARK_PATH/bin/pyspark --masterlocal[2]'
 # es缓存
 # 看下rebbitMQ
 # 使用一下loguru
-# 
+# 看论文
 
 
 
