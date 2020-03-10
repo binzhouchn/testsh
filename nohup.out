@@ -1,0 +1,238 @@
+[I 09:51:59.539 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 09:51:59.543 NotebookApp] Serving notebooks from local directory: /Users/zhoubin/PycharmProjects/testsh
+[I 09:51:59.543 NotebookApp] 0 active kernels
+[I 09:51:59.543 NotebookApp] The Jupyter Notebook is running at:
+[I 09:51:59.543 NotebookApp] http://localhost:8888/?token=bc619f26ec534d6a8a9e3dddaadc2a13aa4ac468577acc62
+[I 09:51:59.543 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:51:59.543 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=bc619f26ec534d6a8a9e3dddaadc2a13aa4ac468577acc62
+[I 09:51:59.763 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 09:52:00.136 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20200115095159 (::1) 7.82ms referer=http://localhost:8888/tree
+[W 09:52:00.138 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20200115095159 (::1) 1.33ms referer=http://localhost:8888/tree
+[I 09:52:08.336 NotebookApp] Creating new notebook in 
+[W 09:52:08.803 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20200115095159 (::1) 5.55ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[W 09:52:08.808 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20200115095159 (::1) 2.42ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 09:52:09.027 NotebookApp] Kernel started: 90ecea09-8888-4b04-89a9-6d75709c8927
+[I 09:52:14.466 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:52:14.707 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:52:21.808 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:52:37.625 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:52:37.931 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:53:24.112 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:53:24.440 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:00:39.155 NotebookApp] Starting buffering for 90ecea09-8888-4b04-89a9-6d75709c8927:38491736BD9E45338FC5F23DF4AAA25F
+[I 11:00:39.475 NotebookApp] Kernel restarted: 90ecea09-8888-4b04-89a9-6d75709c8927
+[I 11:00:40.372 NotebookApp] Restoring connection for 90ecea09-8888-4b04-89a9-6d75709c8927:38491736BD9E45338FC5F23DF4AAA25F
+[I 11:00:40.373 NotebookApp] Replaying 3 buffered messages
+[I 11:00:45.468 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:00:47.484 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:00:50.569 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:04:57.712 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:05:05.978 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:05:10.622 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:05:10.951 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:05:11.296 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:10:09.088 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:18:09.028 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:20:09.031 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:24:21.526 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:24:22.964 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:24:23.387 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:06.985 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:07.407 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:07.797 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:16.670 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:16.999 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:17.707 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:27.112 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:27.259 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:27.393 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:31.989 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:32.127 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:32.264 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:32.393 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:42.418 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:42.724 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:43.158 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:43.281 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:43.409 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:47.254 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:47.399 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:47.535 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:47.680 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 11:25:47.825 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:09:42.443 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:09:48.055 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:02.402 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:02.720 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:03.914 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:06.092 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:06.484 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:06.810 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:09.192 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:32.053 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:32.400 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:32.702 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:34.489 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:34.804 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:42.566 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:44.943 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:50.799 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:51.162 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:51.591 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:51.888 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:56.675 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:10:57.023 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:11:32.819 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:11:43.116 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:11:48.643 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:12:09.572 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:15:49.492 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:16:09.198 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:16:38.017 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:16:38.421 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:16:47.395 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:16:47.766 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:26:11.493 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:28:09.588 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:29:59.944 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:09.442 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:25.207 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:25.441 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:32.536 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:32.885 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:47.758 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:30:47.993 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 15:47:55.053 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:25.102 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:30.103 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:30.547 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:30.957 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:36.382 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:36.801 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:37.151 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:38.961 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:39.437 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 16:06:39.834 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:37:44.655 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:37:44.982 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:38:10.204 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:40:09.467 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:42:09.397 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:43:01.085 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:43:03.521 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:44:00.360 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:44:09.402 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:45:26.051 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:45:28.252 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:45:56.618 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:46:09.404 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:46:36.735 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:46:48.077 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:46:54.333 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:47:14.261 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:47:14.407 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:47:14.559 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:47:14.713 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:48:20.755 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:49:12.080 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:55:14.484 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 17:56:09.400 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:00:09.406 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:03:43.275 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:03:43.562 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:03:49.808 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:03:50.142 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 18:03:50.446 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:23.167 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:23.486 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:24.616 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:24.762 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:24.914 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 20:57:38.256 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.255 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.385 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.541 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.689 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.842 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:13.996 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 21:04:14.157 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:40:33.889 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:40:33.985 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:40:34.138 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:40:34.300 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 14:40:34.445 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:30.421 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:30.580 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:30.742 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:30.896 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.042 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.202 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.371 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.541 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.702 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:31.871 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:32.033 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:32.203 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:32.356 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:39.845 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:40.046 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:40.199 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:57:40.354 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:59:17.372 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:59:17.736 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:59:27.138 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:59:27.675 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 09:59:28.185 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:27.711 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:27.724 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:27.799 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:27.962 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:28.091 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:28.235 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:28.389 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:28.535 NotebookApp] Saving file at /rabbitMQ.ipynb
+[I 10:14:28.671 NotebookApp] Saving file at /rabbitMQ.ipynb
+[W 10:29:15.859 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20200115095159 (::1) 2.03ms referer=http://localhost:8888/tree
+[W 10:29:15.866 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20200115095159 (::1) 1.25ms referer=http://localhost:8888/tree
+[W 10:29:16.781 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20200115095159 (::1) 1.33ms referer=http://localhost:8888/tree
+[W 10:29:16.788 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20200115095159 (::1) 1.87ms referer=http://localhost:8888/tree
+[I 10:30:05.454 NotebookApp] Uploading file to /保险实体打标bio.ipynb
+[W 10:30:05.455 NotebookApp] Notebook 保险实体打标bio.ipynb is not trusted
+[W 10:30:07.142 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20200115095159 (::1) 1.18ms referer=http://localhost:8888/notebooks/%E4%BF%9D%E9%99%A9%E5%AE%9E%E4%BD%93%E6%89%93%E6%A0%87bio.ipynb
+[W 10:30:07.219 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20200115095159 (::1) 1.32ms referer=http://localhost:8888/notebooks/%E4%BF%9D%E9%99%A9%E5%AE%9E%E4%BD%93%E6%89%93%E6%A0%87bio.ipynb
+[I 10:30:07.739 NotebookApp] Kernel started: 4f24e862-81d0-4405-92ca-0315f88edb04
+[I 10:34:07.757 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:37:19.089 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:37:19.392 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:37:37.292 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:38:07.753 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:38:21.971 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:39:01.775 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:39:34.581 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:40:07.750 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:41:37.194 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:41:43.601 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:42:07.750 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:42:35.530 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:44:07.755 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:44:43.119 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:45:40.653 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:46:54.650 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:47:10.914 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:47:11.330 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:48:07.756 NotebookApp] Saving file at /保险实体打标bio.ipynb
+[I 10:48:27.884 NotebookApp] Starting buffering for 4f24e862-81d0-4405-92ca-0315f88edb04:265928DC15D545CB8B9AD22F77091B14
+/Users/zhoubin/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py:246: UserWarning: Unregistering FD 51 after closing socket. This could result in unregistering handlers for the wrong socket. Please use stream.close() instead of closing the socket directly.
+  stream.close()
+/Users/zhoubin/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py:246: UserWarning: Unregistering FD 54 after closing socket. This could result in unregistering handlers for the wrong socket. Please use stream.close() instead of closing the socket directly.
+  stream.close()
+/Users/zhoubin/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py:246: UserWarning: Unregistering FD 57 after closing socket. This could result in unregistering handlers for the wrong socket. Please use stream.close() instead of closing the socket directly.
+  stream.close()
+[I 10:48:32.648 NotebookApp] Kernel shutdown: 4f24e862-81d0-4405-92ca-0315f88edb04
+[W 10:48:32.652 NotebookApp] delete /保险实体打标bio.ipynb
+[I 10:48:34.474 NotebookApp] Starting buffering for 90ecea09-8888-4b04-89a9-6d75709c8927:38491736BD9E45338FC5F23DF4AAA25F
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
